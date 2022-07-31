@@ -1,7 +1,7 @@
 #  Validation form 
 
 ## 🐧 Links
-- `Project` https://genshin-roan.vercel.app/
+- `Project` https://it-prof-task.vercel.app/
 - `Repository` https://github.com/scrappyjs666/genshin
 - `Test task` https://docs.google.com/document/d/11g_eYwD_x0XES0eobbCIv5-QGkn8QJ61-e0G8FyVww4/edit
 - `Telegramm` https://t.me/scrappyzzz
