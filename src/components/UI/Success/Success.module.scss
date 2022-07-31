@@ -1,0 +1,15 @@
+.success {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  color: #17d927;
+  text-align: center;
+  word-break: break-word;
+  gap: 5px;
+  margin-bottom: 20px;
+}
+
+.success__text {
+  font-size: 15px;
+  height: 26px;
+}
